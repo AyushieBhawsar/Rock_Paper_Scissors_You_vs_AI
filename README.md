@@ -3,4 +3,5 @@ Developed a module using Computer Vision and Python libraries where user can pla
 
 Download test.py file and Resources Folder for images
 
-![Alt text]("C:\Users\ayush\Pictures\Screenshots\Screenshot 2023-04-02 212016.png")
+Press S key to initialize game !
+
